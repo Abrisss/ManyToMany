@@ -1,0 +1,14 @@
+.gradle
+/build/
+application-*local.yml
+
+### Docker ###
+/docker/esdata1/
+/docker/data/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/

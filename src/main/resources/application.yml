@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/timetable
+    username: postgres
+    password: 142536
+  jpa:
+    hibernate:
+      ddl-auto: update
